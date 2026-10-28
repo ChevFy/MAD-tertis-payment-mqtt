@@ -1,0 +1,11 @@
+../Core/Src/ili9341.c:114:13:lcd_write	1
+../Core/Src/ili9341.c:118:13:lcd_cmd	1
+../Core/Src/ili9341.c:123:13:lcd_data	1
+../Core/Src/ili9341.c:128:13:lcd_set_window	1
+../Core/Src/ili9341.c:137:6:LCD_Backlight	1
+../Core/Src/ili9341.c:141:6:LCD_Init	1
+../Core/Src/ili9341.c:170:6:LCD_FillRect	7
+../Core/Src/ili9341.c:191:6:LCD_FillScreen	1
+../Core/Src/ili9341.c:195:6:LCD_DrawChar	7
+../Core/Src/ili9341.c:209:6:LCD_DrawString	2
+../Core/Src/ili9341.c:216:6:LCD_DrawStringCentered	3
